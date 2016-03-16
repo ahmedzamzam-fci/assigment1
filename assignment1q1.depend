@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1456486572 source:c:\users\ahmedsadek\desktop\asssd\assignment1q1\main.cpp
+	"q1.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	<cmath>
+	<sstream>
+
+1456429555 c:\users\ahmedsadek\desktop\asssd\assignment1q1\q1.h
+	<iostream>
+
